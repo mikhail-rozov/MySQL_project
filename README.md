@@ -1,5 +1,4 @@
 # Relational databases' basics. MySQL.
-##### Geekbrains course project.
   
 Требования к курсовому проекту:  
 1. Составить общее текстовое описание БД и решаемых ею задач;  
